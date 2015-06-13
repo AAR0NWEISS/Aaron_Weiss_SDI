@@ -35,7 +35,7 @@ console.log("The amount of people the bill is divided by is "+percentArray[5]);/
 console.log("The toal cost of dinner is "+percentArray[6]);//output logs
 console.log("The amount of the tip is "+amountToal+"Person");//output logs
 
-//test
+//test1
 
 
 
